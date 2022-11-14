@@ -1,0 +1,23 @@
+{
+    // Jquery CDN
+    "jqcdn3": {
+        "prefix": "jqcdn3",
+        "body": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js\"></script>",
+        "description": "Jquery 3 CDN"
+    },
+
+    // Jquery CDN 2
+    "jqcdn2": {
+        "prefix": "jqcdn2",
+        "body": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js\"></script>",
+        "description": "Jquery 2 CDN"
+    },
+
+    // Jquery CDN 1
+    "jqcdn1": {
+        "prefix": "jqcdn1",
+        "body": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"></script>",
+        "description": "Jquery 1 CDN"
+    }
+    
+}
