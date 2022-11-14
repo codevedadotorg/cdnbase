@@ -1,20 +1,24 @@
 {
-  "name": "cdnbase",
-  "displayName": "cdnbase",
-  "description": "Extension with mass amount of CDN links and snippets needed for easy imports",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.73.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "'php', 'javascript', 'html', 'css', 'ejs'",
-        "path": "./snippets/snippets.code-snippets"
-      }
-    ]
-  }
+    "name": "cdnbase",
+    "displayName": "cdnbase",
+    "description": "Extension with mass amount of CDN links and snippets needed for easy imports",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sampath99999/cdnbase"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "'php', 'javascript', 'html', 'css', 'ejs'",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
 }
