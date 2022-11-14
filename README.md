@@ -4,12 +4,17 @@ CDN Base is a extension which consists of CDN's to import easy and work on libra
 # How to Use
 This extension consists of Several Snippet's
 
-For Example
-`
-jqcdn3
-`
-is gonna substitute with
+List of CDN's available
 
-`
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-`
+1. Jquery CDN
+
+` jqcdn3 ` for version 3<br>
+` jqcdn2 ` for version 2<br>
+` jqcdn1 ` for version 1<br>
+
+2. Bootstrap CDN
+
+` bt5css ` for version 5 Bootstrap CSS <br>
+` bt5js ` for version 5 Bootstrap JS<br>
+` bt5full ` for version 5 Bootstrap CSS & JS<br>
+
