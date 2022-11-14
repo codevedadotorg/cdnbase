@@ -2,9 +2,9 @@
     "name": "cdnbase",
     "displayName": "cdnbase",
     "description": "Extension with mass amount of CDN links and snippets needed for easy imports",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "sampath9989",
-    "icon": "./logo.png",
+    "icon": "logo.png",
     "engines": {
         "vscode": "^1.73.0"
     },
@@ -18,7 +18,7 @@
     "contributes": {
         "snippets": [
             {
-                "language": "'php', 'javascript', 'html', 'css', 'ejs'",
+                "language": "html, ejs, php",
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
