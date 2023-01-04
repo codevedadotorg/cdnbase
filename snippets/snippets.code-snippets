@@ -59,14 +59,14 @@
     "angularjsmin": {
         "prefix": "angularjsmin",
         "body": [
-            "<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js\">"
+            "<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js\"></script>"
         ],
         "description": "Angular JS Production"
     },
     "angularjs": {
         "prefix": "angularjs",
         "body": [
-            "<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js\">"
+            "<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js\"></script>"
         ],
         "description": "Angular JS Dev"
     }
