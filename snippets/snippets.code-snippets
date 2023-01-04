@@ -55,5 +55,19 @@
             "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css\">"
         ],
         "description": "Bootstrap 5 Icons CDN"
+    },
+    "angularjsmin": {
+        "prefix": "angularjsmin",
+        "body": [
+            "<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js\">"
+        ],
+        "description": "Angular JS Production"
+    },
+    "angularjs": {
+        "prefix": "angularjs",
+        "body": [
+            "<script src=\"https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.js\">"
+        ],
+        "description": "Angular JS Dev"
     }
 }

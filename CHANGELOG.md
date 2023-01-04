@@ -1,5 +1,4 @@
-# 0.0.8
+# 0.0.9
 Updated Some Snippet's
 
-1. Font Awesome CDN
-2. Bootstrap Icons
+1. Added Angular JS CDN

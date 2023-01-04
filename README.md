@@ -17,4 +17,8 @@ List of CDN's available
 ` bt5css ` for version 5 Bootstrap CSS <br>
 ` bt5js ` for version 5 Bootstrap JS<br>
 ` bt5full ` for version 5 Bootstrap CSS & JS<br>
+` bi5icons ` for version 5 Bootstrap ICONS<br>
 
+3. Angular JS
+` angularjsmin ` for Angular JS Latest Production <br>
+` angularjs ` for Angular JS Development <br>
