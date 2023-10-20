@@ -1,6 +1,6 @@
 # CdnBase
 
-CDN Base is a extension which consists of CDN's to import easy and work on libraries from external CDN.
+CDN Base is a versatile Visual Studio Code extension designed to enhance your development workflow by providing a curated selection of Content Delivery Networks (CDNs). This extension simplifies the process of importing external libraries and dependencies, streamlining your development tasks for greater efficiency and productivity.
 
 # How to Use
 
