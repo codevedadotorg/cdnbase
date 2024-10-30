@@ -19,7 +19,7 @@ def create_snippets(libraries):
         
         # Create snippet structure
         snippet = {
-            "prefix": name,
+            "prefix": f"cdn:{name}",
             "body": [
                 f"<script src=\"{latest_url}\"></script>"
             ],

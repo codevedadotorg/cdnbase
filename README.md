@@ -12,10 +12,10 @@ For a comprehensive list of all available CDNs, please visit [cdnjs.com](https:/
 
 Below are some sample prefixes for quick CDN imports:
 
-- `react` - Use this for the latest production version of React.
-- `react-dom` - Use this for the latest production version of React-DOM.
-- `vue` - Use this for the latest version of Vue.js.
-- `bootstrap` - Use this for the latest version of Bootstrap JavaScript.
+- `cdn:react` - Use this for the latest production version of React.
+- `cdn:react-dom` - Use this for the latest production version of React-DOM.
+- `cdn:vue` - Use this for the latest version of Vue.js.
+- `cdn:bootstrap` - Use this for the latest version of Bootstrap JavaScript.
 
 > **Note**: For the latest and complete library list, refer to cdnJS.
 

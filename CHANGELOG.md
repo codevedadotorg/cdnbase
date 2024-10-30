@@ -1,19 +1,12 @@
 # Changelog
 
-## [0.1.1] - Beta Release
+## [0.1.2] - 2024-10-30
 ### Added
-- Initial release of the **CdnBase** extension.
-- A selection of CDN snippets for popular libraries, including:
-  - React
-  - React-DOM
-  - Vue.js
-  - Bootstrap
+- Added "cdn:" prefix to all snippet prefixes for clarity and consistency.
 
-### Changes
-- Updated documentation to provide clear usage instructions and examples of CDN prefixes.
-- Provided links to cdnJS for a complete library list.
+### Updated
+- Updated README and CHANGELOG files to reflect the recent changes.
 
-### Fixed
-- Improved formatting of the README for better readability.
-- Corrected the GitHub repository link to [codevedadotorg/cdnbase](https://github.com/codevedadotorg/cdnbase).
-
+## [0.1.1] - 2024-10-29
+### Initial Release
+- Released the CdnBase extension with initial set of CDN snippets for various libraries.
