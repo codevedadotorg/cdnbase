@@ -2,7 +2,7 @@
     "name": "cdnbase",
     "displayName": "cdnbase",
     "description": "Extension with mass amount of CDN links and snippets needed for easy imports",
-    "version": "0.1.2-beta.1",
+    "version": "0.1.2",
     "publisher": "sampath9989",
     "icon": "logo.png",
     "engines": {
